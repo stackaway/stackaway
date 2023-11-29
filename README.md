@@ -1,24 +1,4 @@
-###  Hello, I'm Churnika Mundas 👋
-
-I'm a 3rd year B.Tech student at Vellore Institute of Technology, Chennai. I have a passion for learning. 
-
-## 🔧 Skills
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![React](https://img.shields.io/badge/-React-blue)
-![Node.js](https://img.shields.io/badge/-Node.js-green)
-
-## 🚀 Projects
-
-- [Project 1]([link-to-repository](https://github.com/stackaway/replication)): Replication of Google's web pages using CSS and HTML. 
-
-## 💼 Work Experience
-
-- Cyber Security intern at Tutelr.
-
-## 🌐 Connect
-
-[LinkedIn](www.linkedin.com/in/churnika-mundas-64767b246) | [Twitter]([link-to-twitter](https://twitter.com/CMundas86837)) 
+###👋 Hello! I'm Churnika Mundas, a passionate 3rd-year B.Tech student at Vellore Institute of Technology, Chennai. I'm deeply enthusiastic about exploring the intersection of technology and finance, with a keen eye on the stock market. Proficient in a diverse set of languages, including JAVA, CSS, HTML, C, C++, and Python, I am currently honing my skills in Backend development, JavaScript, and AI/ML. My journey involves continuous learning and hands-on experience, with my most recent project being a front-end replication developed using CSS and HTML. Excited about the endless possibilities in the tech world, I am eager to contribute and collaborate on innovative projects. 🚀
 
 <!--
 **stackaway/stackaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
