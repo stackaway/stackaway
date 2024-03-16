@@ -1,7 +1,7 @@
 <body style="background-color:WhiteSmoke;">
 
 <h1 align="center">Hello</h1>
-<img src="https://github.com/stackaway/stackaway/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png" alt="Banner"/>
+<img src="https://github.com/stackaway/stackaway/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png"/>
 <div align = 'center'>
 
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
