@@ -13,8 +13,8 @@
 :star:  Looking forward to be a **Software Developer** <br>
 :nerd_face: Currently working on **Crime Classification using NLP** <br>
 :snowflake: Studying at **Vellore Institute of Technology, Chennai** in **B.Tech Computer Science and Engineering spl. in Cyber Physical Systems**. Passout batch: 2025 <br>
-🚀 Love to spend time on **Stock market analysis and Travelling** <br>
-💻 Participated in different Open Source Programs as, **a Contributor** <br>
+🚀 Love to spend time on **stock market analysis and travelling** <br>
+💻 Participated in different Open Source Programs as **a Contributor** <br>
 <br>
 <h3>Connect with me on:</h3>
 <br>
